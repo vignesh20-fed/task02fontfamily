@@ -1,0 +1,157 @@
+   
+	 
+	  h1{
+      text-align:center;
+	  text-decoration:underline;
+	  text-decoration-style:dotted;
+	  color:red;
+	  }
+   
+   .i{
+	   text-align:center;
+	   color:lightslategray;
+   }
+
+
+   div{
+	     font-size:12px;
+	   }
+	h1{
+	  font-size:1cm;
+	  color:brown;
+	 }
+	
+   .mm{
+         font-size:12px;   
+      }	
+   .mm{
+         font-size:5mm;
+        }
+		
+   .in{
+         font-size:1px;   
+      }	
+   .in{
+         font-size:1in;
+        }
+
+    .vw{
+	    font-size:5vw;
+		}
+	     
+    .vh{
+	    font-size:5vh;
+	   }
+	   
+   .em{
+         font-size:12px; 
+      }
+   .em{	  
+         font-size:1em;			 
+      }	
+	  
+	html{
+        font-size:16px;
+	}
+    .rem{
+        font-size:2rem;
+	}		
+	
+	
+	.parent{
+	   font-size:1rem;
+	   background-color:red;
+	   color:#fff;
+	   width:50%;
+	   }
+    .child{
+	   font-size:1rem;
+	   background-color:blue;
+	   color:#fff;
+	   width:50%;
+	   }
+	   
+	   
+      
+    <!-- fonts -->	 
+   
+  
+	.p1,.p2,.p3{
+		 font-size:30px;
+	}
+   .p1 {
+  font-family: "Times New Roman", Times, serif;
+      }
+
+   .p2 {
+  font-family: Arial, Helvetica, sans-serif;
+         }
+    .p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+    }
+	
+	.a,.b,.c{
+		 font-size:30px;
+	}
+   
+   .a {
+  font-style: normal;
+     }
+
+    .b {
+  font-style: italic;
+      }
+
+   .c {
+  font-style: oblique;
+      }
+	  
+	.normal,.light,.thick,.thicker{
+		 font-size:30px;
+	}  
+    
+	.normal {
+  font-weight: normal;
+             }
+    .light {
+  font-weight: lighter;
+            }
+    .thick {
+  font-weight: bold;
+          }
+
+    .thicker {
+  font-weight: 800;
+         }
+		 
+	.n,.s{
+		 font-size:30px;
+	}	 
+    
+	.n{
+  font-variant: normal;
+          }
+	.s{
+  font-variant: small-caps;
+            }
+			
+	@font-face {
+  font-family:fontsono;
+  src: url(fonts/Sono-Bold.woff);
+    }
+    
+.ff{
+    font-size:30px;
+    font-family:fontsono,sans-serif;
+}
+
+.fl{
+	font-size:30px;
+     font-family: 'Kanit', sans-serif;
+}	
+
+.il{
+	
+    font-family: 'Roboto Mono', monospace;
+}	
+		
